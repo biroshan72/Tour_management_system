@@ -7,7 +7,7 @@
         <div class="col-lg-6">
           <div class="intro_content">
             <div class="section_title">
-              <div>Hello</div>
+              <div>Hello everyone</div>
               <h1>Amazing tour management.</h1>
             </div>
             <div class="intro_text">
