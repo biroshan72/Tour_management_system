@@ -1,5 +1,5 @@
 <?php
-require("includes/initialize.php");
+require_once("includes/initialize.php");
 $content='home.php';
 $view = (isset($_GET['p']) && $_GET['p'] != '') ? $_GET['p'] : '';
 $account = 'guest/update.php';
@@ -48,7 +48,7 @@ switch ($view) {
     $content ='home.php';   
 }
 
-require ('theme/template.php');
+require_once ('theme/template.php');
 
 ?>
  
