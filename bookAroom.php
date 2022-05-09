@@ -1,4 +1,4 @@
-  <?php
+<?php
 $msg = "";
 
 if(isset($_POST['booknow'])){
@@ -187,7 +187,7 @@ $_SESSION['departure'] =date_format(date_create($_POST['departure']),"Y-m-d");
                               </li> 
                               <li class="d-flex flex-row align-items-center justify-content-start">
                                 <img src="images/check.png" alt="">
-                                <span>Remaining Rooms :<?php echo  $resNum ;?></span>
+                                <span>Remaining seat :<?php echo  $resNum ;?></span>
                               </li>
                             </ul>
                           </div>
