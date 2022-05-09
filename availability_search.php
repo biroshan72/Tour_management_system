@@ -1,4 +1,4 @@
- <form  method="POST" action="index.php?p=booking">
+<form  method="POST" action="index.php?p=booking">
 <div id="availability-wrap" class="site-footer clr">
     <div id="footer" class="clr">
         <div id=" -wrap" class="clr">  
