@@ -1,4 +1,4 @@
- <style type="text/css">
+<style type="text/css">
  .a a {
   color:white;
  }
@@ -13,7 +13,7 @@
 <div id="sidebarRight-wrap">   
         <div class="row">
           <div class="col-md-10 block">
-            <h3> Book a Room</h3> 
+            <h3> Book a place</h3> 
           </div> 
         </div> 
 
@@ -86,7 +86,7 @@
    <div class="descRoom">
            <div class="row">
           <div class="col-md-10 block">
-            <h3>Types of Rooms</h3> 
+            <h3>Types of place</h3> 
           </div> 
         </div> 
               <ul  class="a"> 
