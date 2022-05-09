@@ -11,7 +11,7 @@
       <div class="row intro_row">
         <div class="col-xl-8 col-lg-10 offset-xl-2 offset-lg-1">
           <div class="intro_text text-center">
-            <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperdiet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus.</p>
+            <p>OLOC Travel special private tours designed for making the tour of the clients more special and memorable who have short limited time in Nepal. There are similar to the day tour packages but consists of special activities during the tour. The food, accommodation will be at special and luxurious places in Nepal.</p>
           </div>
         </div>
       </div>
@@ -112,40 +112,7 @@
           </div>
         </div>
 
-        <!-- Rooms Content -->
-        <div class="col-xl-6 order-xl-2 order-1">
-          <div class="rooms_right_content">
-            <div class="section_title">
-              <div>Places</div>
-              <h1>International Packages</h1>
-            </div>
-            <div class="rooms_text">
-              <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque.</p>
-            </div>
-            <div class="rooms_list">
-              <ul>
-                <li class="d-flex flex-row align-items-center justify-content-start">
-                  <img src="images/check.png" alt="">
-                  <span>Morbi tempus malesuada erat sed</span>
-                </li>
-                <li class="d-flex flex-row align-items-center justify-content-start">
-                  <img src="images/check.png" alt="">
-                  <span>Tempus malesuada erat sed</span>
-                </li>
-                <li class="d-flex flex-row align-items-center justify-content-start">
-                  <img src="images/check.png" alt="">
-                  <span>Pellentesque vel neque finibus elit</span>
-                </li>
-              </ul>
-            </div>
-            <div class="rooms_price">Rs.12,900<span>only</span></div>
-           
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </div>
+        <!-- 
 
   <!-- Rooms -->
 
@@ -161,25 +128,25 @@
               <h1>Domestic Packages</h1>
             </div>
             <div class="rooms_text">
-              <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque.</p>
+            <p>Explore Nepal over the course of six days on this private tour. Planning a multi-day excursion like this one may be logistically challenging; booking this package means everything is arranged for you. You can just enjoy the sights, smells, and sounds of Nepal and listen to guided commentary as you explore.A private tour promises personalized attention, a flexible itinerary, and the chance to ask questions.</p>
             </div>
             <div class="rooms_list">
               <ul>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Morbi tempus malesuada erat sed</span>
+                  <span>All transportation in a comfortable private vehicle</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Tempus malesuada erat sed</span>
+                  <span>Overnight accommodations with breakfast each day</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Pellentesque vel neque finibus elit</span>
+                  <span>One local SIM card (returnable) for your phone and A bottle of mineral water each day to stay hydrated</span>
                 </li>
               </ul>
             </div>
-            <div class="rooms_price">Rs. 8,90,000<span>Only</span></div>
+            <div class="rooms_price">Rs.50,000<span>Only</span></div>
            
           </div>
         </div>
@@ -212,37 +179,7 @@
     </div>
   </div>
 
-  <!-- Discover -->
-
-  <div class="discover">
-
-    <!-- Discover Content -->
-    <div class="discover_content">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-5">
-            <div class="section_title">
-              <div>Tour</div>
-              <h1>Discover One Life One Choice</h1>
-            </div>
-          </div>
-        </div>
-        <div class="row discover_row">
-          <div class="col-lg-5">
-            <div class="discover_highlight">
-              <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur.</p>
-            </div>
-            <!-- <div class="button discover_button"><a href="#">discover</a></div> -->
-          </div>
-          <div class="col-lg-7">
-            <div class="discover_text">
-              <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
+  
     <!-- Discover Slider -->
     <div class="discover_slider_container">
       <div class="owl-carousel owl-theme discover_slider">
@@ -298,7 +235,7 @@
               <!-- Slide -->
               <div>
                 <div class="testimonial_text text-center">
-                  <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
+                  <p>Booking through you was very easy and made our lives so much easier. I have nothing bad to say! Thank you for giving us tips and guidance before we left on what to bring and such, that was very helpful! Thanks again.</p>
                 </div>
                 <div class="testimonial_author text-center">
                   <div class="testimonial_author_image"><img src="images/author_1.jpg" alt=""></div>
@@ -309,18 +246,20 @@
               <!-- Slide -->
               <div>
                 <div class="testimonial_text text-center">
-                  <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
+                  <p>Booking through you was very easy and made our lives so much easier. I have nothing bad to say! Thank you for giving us tips and guidance before we left on what to bring and such, that was very helpful! Thanks again.</p>
                 </div>
                 <div class="testimonial_author text-center">
                   <div class="testimonial_author_image"><img src="images/author_1.jpg" alt=""></div>
-                  <div class="testimonial_author_name"><a href="#">Maria Smith,</a><span> Client</span></div>
+                  <div class="testimonial_author_name"><a href="#">Krizan</a><span> Client</span></div>
                 </div>
               </div>
 
               <!-- Slide -->
               <div>
                 <div class="testimonial_text text-center">
-                  <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
+                  <p>Wow Sajan. I thank you for all your effort and travel information. I really wasn’t expecting that you do this. So thank you very much.
+
+</p>
                 </div>
                 <div class="testimonial_author text-center">
                   <div class="testimonial_author_image"><img src="images/author_1.jpg" alt=""></div>
